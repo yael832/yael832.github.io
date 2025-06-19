@@ -54,7 +54,7 @@ body {
 main {
     padding: 230px;
     margin-left: 290px; /* Ajusta el valor según necesites */
-    background-image:url(img/sector.jpg);
+    background-image:url(sector.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
